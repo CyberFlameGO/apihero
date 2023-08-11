@@ -91,7 +91,7 @@ importers:
       openapi-types: ^12.0.2
       prettier: ^2.7.1
       typescript: ^4.8.4
-      vite: ^3.2.3
+      vite: ^3.2.7
       vitest: ^0.24.1
       vitest-environment-miniflare: ^2.10.0
       wrangler: ^2.2.1
@@ -110,7 +110,7 @@ importers:
       openapi-types: 12.0.2
       prettier: 2.7.1
       typescript: 4.8.4
-      vite: 3.2.3
+      vite: 3.2.7
       vitest: 0.24.3
       vitest-environment-miniflare: 2.10.0_vitest@0.24.3
       wrangler: 2.2.1
@@ -243,7 +243,7 @@ importers:
       tsconfig-paths: ^3.14.1
       tsx: ^3.4.3
       typescript: ^4.8.4
-      vite: ^3.1.4
+      vite: ^3.2.7
       vite-tsconfig-paths: ^3.5.1
       vitest: ^0.23.4
       zod: ^3.17.3
@@ -352,7 +352,7 @@ importers:
       '@types/react-date-range': 1.4.4
       '@types/react-dom': 18.0.6
       '@types/slug': 5.0.3
-      '@vitejs/plugin-react': 2.1.0_vite@3.1.8
+      '@vitejs/plugin-react': 2.1.0_vite@3.2.7
       '@vitest/coverage-c8': 0.23.4_happy-dom@6.0.4
       autoprefixer: 10.4.12_postcss@8.4.18
       c8: 7.12.0
@@ -378,8 +378,8 @@ importers:
       ts-node: 10.9.1_t5u7mgvg37ubbriknxosz26ylm
       tsconfig-paths: 3.14.1
       typescript: 4.8.4
-      vite: 3.1.8
-      vite-tsconfig-paths: 3.5.1_vite@3.1.8
+      vite: 3.2.7_@types+node@18.11.0
+      vite-tsconfig-paths: 3.5.1_vite@3.2.7
       vitest: 0.23.4_happy-dom@6.0.4
 
   config-packages/eslint-config-custom:
@@ -392,7 +392,7 @@ importers:
     devDependencies:
       eslint: 8.25.0
       eslint-config-prettier: 8.5.0_eslint@8.25.0
-      eslint-config-turbo: 0.0.4_eslint@8.25.0
+      eslint-config-turbo: 1.10.12_eslint@8.25.0
       eslint-plugin-react: 7.31.8_eslint@8.25.0
       typescript: 4.8.4
 
@@ -408,7 +408,7 @@ importers:
       eslint: 8.25.0
       eslint-config-next: 12.3.3_z4bbprzjrhnsfa24uvmcbu7f5q
       eslint-config-prettier: 8.5.0_eslint@8.25.0
-      eslint-config-turbo: 0.0.4_eslint@8.25.0
+      eslint-config-turbo: 1.10.12_eslint@8.25.0
       eslint-plugin-react: 7.31.8_eslint@8.25.0
       typescript: 4.8.4
 
@@ -425,7 +425,7 @@ importers:
       '@typescript-eslint/parser': 5.40.0_z4bbprzjrhnsfa24uvmcbu7f5q
       eslint: 8.25.0
       eslint-config-prettier: 8.5.0_eslint@8.25.0
-      eslint-config-turbo: 0.0.4_eslint@8.25.0
+      eslint-config-turbo: 1.10.12_eslint@8.25.0
       typescript: 4.8.4
 
   config-packages/tailwind-config:
@@ -508,7 +508,7 @@ importers:
       tsup: ^6.2.3
       tsx: ^3.7.1
       typescript: ^4.8.4
-      vite: ^3.1.4
+      vite: ^3.2.7
       vite-tsconfig-paths: ^3.5.1
       vitest: ^0.24.4
       webpack: ^5.74.0
@@ -542,8 +542,8 @@ importers:
       tsup: 6.3.0_typescript@4.8.4
       tsx: 3.12.0
       typescript: 4.8.4
-      vite: 3.2.3_@types+node@18.11.9
-      vite-tsconfig-paths: 3.5.2_vite@3.2.3
+      vite: 3.2.7_@types+node@18.11.9
+      vite-tsconfig-paths: 3.5.2_vite@3.2.7
       vitest: 0.24.5_happy-dom@6.0.4
       webpack: 5.74.0_esbuild@0.15.12
 
@@ -560,7 +560,7 @@ importers:
       rimraf: ^3.0.2
       tsup: ^6.2.3
       typescript: ^4.9.0
-      vite: ^3.1.4
+      vite: ^3.2.7
       vite-tsconfig-paths: ^3.5.1
       vitest: ^0.24.4
     dependencies:
@@ -576,8 +576,8 @@ importers:
       rimraf: 3.0.2
       tsup: 6.3.0_typescript@4.9.3
       typescript: 4.9.3
-      vite: 3.2.3
-      vite-tsconfig-paths: 3.5.2_vite@3.2.3
+      vite: 3.2.7
+      vite-tsconfig-paths: 3.5.2_vite@3.2.7
       vitest: 0.24.5
 
   packages/apihero-node:
@@ -606,7 +606,7 @@ importers:
       tsup: ^6.2.3
       tsx: ^3.7.1
       typescript: ^4.8.4
-      vite: ^3.1.4
+      vite: ^3.2.7
       vite-tsconfig-paths: ^3.5.1
       vitest: ^0.24.4
     dependencies:
@@ -635,8 +635,8 @@ importers:
       tsup: 6.3.0_typescript@4.8.4
       tsx: 3.12.0
       typescript: 4.8.4
-      vite: 3.2.3_@types+node@18.11.9
-      vite-tsconfig-paths: 3.5.2_vite@3.2.3
+      vite: 3.2.7_@types+node@18.11.9
+      vite-tsconfig-paths: 3.5.2_vite@3.2.7
       vitest: 0.24.5
 
   packages/interceptors-js:
@@ -663,7 +663,7 @@ importers:
       tsx: ^3.7.1
       typescript: ^4.8.4
       until: link:@types/@open-draft/until
-      vite: ^3.1.4
+      vite: ^3.2.7
       vite-tsconfig-paths: ^3.5.1
       vitest: ^0.24.4
       webpack: ^5.74.0
@@ -691,8 +691,8 @@ importers:
       tsx: 3.10.1
       typescript: 4.8.4
       until: link:@types/@open-draft/until
-      vite: 3.1.8
-      vite-tsconfig-paths: 3.5.1_vite@3.1.8
+      vite: 3.2.7_@types+node@18.11.0
+      vite-tsconfig-paths: 3.5.1_vite@3.2.7
       vitest: 0.24.4_happy-dom@6.0.4
       webpack: 5.74.0
 
@@ -710,7 +710,7 @@ importers:
       rimraf: ^3.0.2
       tsup: ^6.2.3
       typescript: ^4.8.4
-      vite: ^3.2.2
+      vite: ^3.2.7
       vite-tsconfig-paths: ^3.5.2
       vitest: ^0.24.5
       zod: ^3.19.1
@@ -723,8 +723,8 @@ importers:
       rimraf: 3.0.2
       tsup: 6.3.0_typescript@4.8.4
       typescript: 4.8.4
-      vite: 3.2.3_@types+node@18.11.9
-      vite-tsconfig-paths: 3.5.2_vite@3.2.3
+      vite: 3.2.7_@types+node@18.11.9
+      vite-tsconfig-paths: 3.5.2_vite@3.2.7
       vitest: 0.24.5
 
 packages:
@@ -5919,7 +5919,7 @@ packages:
       - '@codemirror/search'
     dev: false
 
-  /@vitejs/plugin-react/2.1.0_vite@3.1.8:
+  /@vitejs/plugin-react/2.1.0_vite@3.2.7:
     resolution: {integrity: sha512-am6rPyyU3LzUYne3Gd9oj9c4Rzbq5hQnuGXSMT6Gujq45Il/+bunwq3lrB7wghLkiF45ygMwft37vgJ/NE8IAA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -5932,7 +5932,7 @@ packages:
       '@babel/plugin-transform-react-jsx-source': 7.18.6_@babel+core@7.19.3
       magic-string: 0.26.7
       react-refresh: 0.14.0
-      vite: 3.1.8
+      vite: 3.2.7_@types+node@18.11.0
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -5951,6 +5951,7 @@ packages:
       - less
       - sass
       - stylus
+      - sugarss
       - supports-color
       - terser
     dev: true
@@ -9153,13 +9154,13 @@ packages:
       eslint: 8.25.0
     dev: true
 
-  /eslint-config-turbo/0.0.4_eslint@8.25.0:
-    resolution: {integrity: sha512-HErPS/wfWkSdV9Yd2dDkhZt3W2B78Ih/aWPFfaHmCMjzPalh+5KxRRGTf8MOBQLCebcWJX0lP1Zvc1rZIHlXGg==}
+  /eslint-config-turbo/1.10.12_eslint@8.25.0:
+    resolution: {integrity: sha512-z3jfh+D7UGYlzMWGh+Kqz++hf8LOE96q3o5R8X4HTjmxaBWlLAWG+0Ounr38h+JLR2TJno0hU9zfzoPNkR9BdA==}
     peerDependencies:
-      eslint: ^7.23.0 || ^8.0.0
+      eslint: '>6.6.0'
     dependencies:
       eslint: 8.25.0
-      eslint-plugin-turbo: 0.0.4_eslint@8.25.0
+      eslint-plugin-turbo: 1.10.12_eslint@8.25.0
     dev: true
 
   /eslint-import-resolver-node/0.3.6:
@@ -9489,11 +9490,12 @@ packages:
       - typescript
     dev: true
 
-  /eslint-plugin-turbo/0.0.4_eslint@8.25.0:
-    resolution: {integrity: sha512-dfmYE/iPvoJInQq+5E/0mj140y/rYwKtzZkn3uVK8+nvwC5zmWKQ6ehMWrL4bYBkGzSgpOndZM+jOXhPQ2m8Cg==}
+  /eslint-plugin-turbo/1.10.12_eslint@8.25.0:
+    resolution: {integrity: sha512-uNbdj+ohZaYo4tFJ6dStRXu2FZigwulR1b3URPXe0Q8YaE7thuekKNP+54CHtZPH9Zey9dmDx5btAQl9mfzGOw==}
     peerDependencies:
-      eslint: ^7.23.0 || ^8.0.0
+      eslint: '>6.6.0'
     dependencies:
+      dotenv: 16.0.3
       eslint: 8.25.0
     dev: true
 
@@ -15236,14 +15238,6 @@ packages:
       estree-walker: 0.6.1
     dev: true
 
-  /rollup/2.78.1:
-    resolution: {integrity: sha512-VeeCgtGi4P+o9hIg+xz4qQpRl6R401LWEXBmxYKOV4zlF82lyhgh2hTZnheFUbANE8l2A41F458iwj2vEYaXJg==}
-    engines: {node: '>=10.0.0'}
-    hasBin: true
-    optionalDependencies:
-      fsevents: 2.3.2
-    dev: true
-
   /rollup/2.79.1:
     resolution: {integrity: sha512-uKxbd0IhMZOhjAiD5oAFp7BqvkA4Dv47qpOCtaNvng4HBwdbWtdOh8f5nZNuk2rp51PMGk3bzfWu5oayNEuYnw==}
     engines: {node: '>=10.0.0'}
@@ -17286,7 +17280,7 @@ packages:
       vfile-message: 3.1.2
     dev: true
 
-  /vite-tsconfig-paths/3.5.1_vite@3.1.8:
+  /vite-tsconfig-paths/3.5.1_vite@3.2.7:
     resolution: {integrity: sha512-t7cPvDMDxOCUxxNLqngXiX+L6jPYBr+eMgkeVadknxBb89d2s1aejz+wFEep010VfXjGVAUWGEFPe1fkRYTFvg==}
     peerDependencies:
       vite: '>2.0.0-0'
@@ -17295,12 +17289,12 @@ packages:
       globrex: 0.1.2
       recrawl-sync: 2.2.2
       tsconfig-paths: 4.1.0
-      vite: 3.1.8
+      vite: 3.2.7_@types+node@18.11.0
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /vite-tsconfig-paths/3.5.2_vite@3.2.3:
+  /vite-tsconfig-paths/3.5.2_vite@3.2.7:
     resolution: {integrity: sha512-xJMgHA2oJ28QCG2f+hXrcqzo7IttrSRK4A//Tp94CfuX5eetOx33qiwXHUdi3FwkHP2ocpxHuvE45Ix67gwEmQ==}
     peerDependencies:
       vite: '>2.0.0-0'
@@ -17309,40 +17303,13 @@ packages:
       globrex: 0.1.2
       recrawl-sync: 2.2.2
       tsconfig-paths: 4.1.0
-      vite: 3.2.3_@types+node@18.11.9
+      vite: 3.2.7_@types+node@18.11.9
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /vite/3.1.8:
-    resolution: {integrity: sha512-m7jJe3nufUbuOfotkntGFupinL/fmuTNuQmiVE7cH2IZMuf4UbfbGYMUT3jVWgGYuRVLY9j8NnrRqgw5rr5QTg==}
-    engines: {node: ^14.18.0 || >=16.0.0}
-    hasBin: true
-    peerDependencies:
-      less: '*'
-      sass: '*'
-      stylus: '*'
-      terser: ^5.4.0
-    peerDependenciesMeta:
-      less:
-        optional: true
-      sass:
-        optional: true
-      stylus:
-        optional: true
-      terser:
-        optional: true
-    dependencies:
-      esbuild: 0.15.12
-      postcss: 8.4.18
-      resolve: 1.22.1
-      rollup: 2.78.1
-    optionalDependencies:
-      fsevents: 2.3.2
-    dev: true
-
-  /vite/3.2.3:
-    resolution: {integrity: sha512-h8jl1TZ76eGs3o2dIBSsvXDLb1m/Ec1iej8ZMdz+PsaFUsftZeWe2CZOI3qogEsMNaywc17gu0q6cQDzh/weCQ==}
+  /vite/3.2.7:
+    resolution: {integrity: sha512-29pdXjk49xAP0QBr0xXqu2s5jiQIXNvE/xwd0vUizYT2Hzqe4BksNNoWllFVXJf4eLZ+UlVQmXfB4lWrc+t18g==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -17374,8 +17341,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vite/3.2.3_@types+node@18.11.0:
-    resolution: {integrity: sha512-h8jl1TZ76eGs3o2dIBSsvXDLb1m/Ec1iej8ZMdz+PsaFUsftZeWe2CZOI3qogEsMNaywc17gu0q6cQDzh/weCQ==}
+  /vite/3.2.7_@types+node@18.11.0:
+    resolution: {integrity: sha512-29pdXjk49xAP0QBr0xXqu2s5jiQIXNvE/xwd0vUizYT2Hzqe4BksNNoWllFVXJf4eLZ+UlVQmXfB4lWrc+t18g==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -17408,8 +17375,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vite/3.2.3_@types+node@18.11.9:
-    resolution: {integrity: sha512-h8jl1TZ76eGs3o2dIBSsvXDLb1m/Ec1iej8ZMdz+PsaFUsftZeWe2CZOI3qogEsMNaywc17gu0q6cQDzh/weCQ==}
+  /vite/3.2.7_@types+node@18.11.9:
+    resolution: {integrity: sha512-29pdXjk49xAP0QBr0xXqu2s5jiQIXNvE/xwd0vUizYT2Hzqe4BksNNoWllFVXJf4eLZ+UlVQmXfB4lWrc+t18g==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -17491,11 +17458,12 @@ packages:
       tinybench: 2.3.0
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 3.1.8
+      vite: 3.2.7_@types+node@18.11.0
     transitivePeerDependencies:
       - less
       - sass
       - stylus
+      - sugarss
       - supports-color
       - terser
     dev: true
@@ -17532,7 +17500,7 @@ packages:
       tinybench: 2.3.0
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 3.2.3_@types+node@18.11.0
+      vite: 3.2.7_@types+node@18.11.0
     transitivePeerDependencies:
       - less
       - sass
@@ -17575,7 +17543,7 @@ packages:
       tinybench: 2.3.1
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 3.2.3_@types+node@18.11.9
+      vite: 3.2.7_@types+node@18.11.9
     transitivePeerDependencies:
       - less
       - sass
@@ -17617,7 +17585,7 @@ packages:
       tinybench: 2.3.1
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 3.2.3_@types+node@18.11.9
+      vite: 3.2.7_@types+node@18.11.9
     transitivePeerDependencies:
       - less
       - sass
@@ -17660,7 +17628,7 @@ packages:
       tinybench: 2.3.1
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 3.2.3_@types+node@18.11.9
+      vite: 3.2.7_@types+node@18.11.9
     transitivePeerDependencies:
       - less
       - sass
